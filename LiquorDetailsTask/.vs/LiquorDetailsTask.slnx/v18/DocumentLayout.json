@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\views\\newfolder1\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:views\\newfolder1\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\migrations\\20260430054717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:migrations\\20260430054717_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|c:\\users\\user\\onedrive\\desktop\\liquordetailstask\\wwwroot\\assets\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{386003CD-3D79-DA25-D09A-7EEECED0F14C}|LiquorDetailsTask.csproj|solutionrelative:wwwroot\\assets\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\NewFolder1\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\NewFolder1\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\NewFolder1\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\NewFolder1\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T09:41:28.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\_ViewImports.cshtml",
+              "RelativeToolTip": "_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T08:36:20.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\wwwroot\\assets\\css\\animate.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\animate.css",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\wwwroot\\assets\\css\\animate.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\animate.css",
+              "ViewState": "AgIAAIcKAAAAAAAAAIAwwKcKAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-30T06:58:50.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Image.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Image.cs",
+              "RelativeToolTip": "Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:39:23.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:36:50.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:35:01.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:31:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T05:32:41.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T05:27:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:33:33.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:27:30.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:41:53.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T05:42:57.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:44:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260430054717_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Migrations\\20260430054717_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260430054717_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\LiquorDetailsTask\\Migrations\\20260430054717_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260430054717_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T05:47:17.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
